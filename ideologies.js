@@ -3,7 +3,7 @@ ideologies = [
         "name": "Anarcho-Communism",
         "stats": {
             "econ": 100,
-            "dipl": 50,
+            "dipl": 75,
             "govt": 100,
             "scty": 90
         }
@@ -119,10 +119,10 @@ ideologies = [
     {
         "name": "Libertarian Socialism",
         "stats": {
-            "econ": 80,
-            "dipl": 80,
-            "govt": 80,
-            "scty": 80
+            "econ": 75,
+            "dipl": 75,
+            "govt": 75,
+            "scty": 75
         }
     },
     {
